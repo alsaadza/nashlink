@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Data Science Intern",
+        "company": "Tech Corp",
+        "location": "Nashville, TN",
+        "startDate": "June 1, 2025",
+        "endDate": "August 30, 2025",
+        "description": "Assist the data science team with machine learning and data analysis.",
+        "applyURL": "https://example.com/data-science-intern"
+    },
+    {
+        "title": "Software Engineering Intern",
+        "company": "Innovate Solutions",
+        "location": "Remote",
+        "startDate": "May 15, 2025",
+        "endDate": "August 15, 2025",
+        "description": "Work on software development projects in an agile environment.",
+        "applyURL": "https://example.com/software-engineering-intern"
+    },
+    {
+        "title": "Cybersecurity Intern",
+        "company": "SecureTech",
+        "location": "San Francisco, CA",
+        "startDate": "June 15, 2025",
+        "endDate": "August 15, 2025",
+        "description": "Help secure company systems and perform vulnerability assessments.",
+        "applyURL": "https://example.com/cybersecurity-intern"
+    }
+]

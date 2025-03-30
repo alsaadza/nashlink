@@ -1,0 +1,29 @@
+[
+    {
+        "title": "AI & Data Networking Night",
+        "location": "Nashville Convention Center",
+        "date": "April 10, 2025",
+        "categories": ["AI", "Data Science"],
+        "imageURL": "https://onlinejpgtools.com/images/examples-onlinejpgtools/sunflower.jpg",
+        "eventURL": "https://example.com/ai-event",
+        "description": "test"
+    },
+    {
+        "title": "Tech Founders Meetup",
+        "location": "WeWork Nashville",
+        "date": "April 15, 2025",
+        "categories": ["Startups", "Networking"],
+        "imageURL": "https://onlinejpgtools.com/images/examples-onlinejpgtools/sunflower.jpg",
+        "eventURL": "https://example.com/tech-founders",
+        "description": "test"
+    },
+    {
+        "title": "Cybersecurity Trends 2025",
+        "location": "Vanderbilt University",
+        "date": "April 20, 2025",
+        "categories": ["Cybersecurity", "IT"],
+        "imageURL": "https://onlinejpgtools.com/images/examples-onlinejpgtools/sunflower.jpg",
+        "eventURL": "https://example.com/cybersecurity",
+        "description": "test"
+    }
+]
